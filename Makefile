@@ -22,7 +22,7 @@ endif
 CXXLIBCAMP = Content
 
 BUILDDIR=.
-EXE=adventure
+EXE=sadelica
 
 .PHONY: clean
 

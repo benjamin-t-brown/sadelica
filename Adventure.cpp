@@ -128,6 +128,8 @@ int main()
 	game::set_camera(player);
 	game::draw();
 	encounters::disable_encounters = true;
+
+	// debug lines for starting off with encounters or for talking
 	// game::encounter_name = "heal_cave_pink";
 	// game::set_mode("combat");
 
