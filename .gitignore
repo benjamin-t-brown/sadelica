@@ -1,0 +1,6 @@
+*.exe
+*.sublime-settings
+*.sublime-workspace
+*.sublime-project
+*.$$$
+debug.out
