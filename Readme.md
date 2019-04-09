@@ -4,9 +4,9 @@ An ASCII rpg featuring full dialog trees, intricate quest lines, turn-based comb
 
 ### Screenshots
 
-![Screenshot 1](https://i.imgur.com/o69t2tM.png)
-![Screenshot 2](https://i.imgur.com/0A7YAvU.png)
-![Screenshot 3](https://i.imgur.com/7IEt4L2.png)
+![Screenshot 1](https://i.imgur.com/04t4JFo.png)
+![Screenshot 2](https://i.imgur.com/2VnMfhj.png)
+![Screenshot 3](https://i.imgur.com/RP46RqX.png)
 
 ### Installation
 
