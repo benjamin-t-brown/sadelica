@@ -10,7 +10,7 @@ namespace explore
 {
 bool end_conversation = false;
 bool _end_conversation_from_ch = false;
-asdf
+
 void move_npc(Character* ch, int x_offset, int y_offset)
 {
 	Character* ch2 = game::get_character_at(ch->x + x_offset, ch->y + y_offset);
